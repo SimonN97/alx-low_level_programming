@@ -18,4 +18,4 @@
 
 100-set_string.c A function that sets the value of a pointer to a char.
 
-101-crackme_password A file that contains the password for the crackme2 executable.
+101-crackme_password is a file that contains the password for the crackme2 executable.
